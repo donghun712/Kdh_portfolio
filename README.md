@@ -3,7 +3,7 @@
 전북대학교 컴퓨터공학 전공 김동훈의 포트폴리오 웹사이트 저장소입니다.
 
 ## 🚀 배포 주소
-* **URL:** [https://본인의-vercel-배포-주소.vercel.app](https://본인의-vercel-배포-주소.vercel.app)
+* **URL:** [https://kimdh-portfolio.vercel.app/](https://kimdh-portfolio.vercel.app/)
 
 ---
 
