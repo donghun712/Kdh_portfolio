@@ -99,25 +99,25 @@ export const skills: SkillGroup[] = [
   {
     name: 'Languages',
     skills: [
-      { name: 'Java', level: 4 },
-      { name: 'C/C++', level: 5 },
-      { name: 'Python', level: 2 },
-      { name: 'TypeScript', level: 3 },
+      {name: 'Java', level: 4},
+      {name: 'C/C++', level: 5},
+      {name: 'Python', level: 2},
+      {name: 'TypeScript', level: 3},
     ],
   },
   {
     name: 'Frontend',
     skills: [
-      { name: 'React', level: 4 },
-      { name: 'Vue', level: 3 },
-      { name: 'HTML/CSS', level: 5 },
+      {name: 'React', level: 4},
+      {name: 'Vue', level: 3},
+      {name: 'HTML/CSS', level: 5},
     ],
   },
   {
     name: 'Backend & Database',
     skills: [
-      { name: 'Spring Boot', level: 4 },
-      { name: 'MySQL', level: 3 },
+      {name: 'Spring Boot', level: 4},
+      {name: 'MySQL', level: 3},
     ],
   },
 ];
